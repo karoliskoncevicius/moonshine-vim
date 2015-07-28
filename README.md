@@ -16,28 +16,28 @@ Some screenshots:
 
 #### C ####
 
-![ScreenshotC](screenshots/C.png)
+![ScreenshotC](https://slimgur.com/images/2015/07/28/c4d434cf1ab31a3b992f0068d57ae353.png)
 
 #### Python ####
 
-![ScreenshotC](screenshots/python.png)
+![ScreenshotC](https://slimgur.com/images/2015/07/28/2efcef793530b8f3e58f8a4d941bc1f9.png)
 
 #### R ####
 
-![ScreenshotC](screenshots/R.png)
+![ScreenshotC](https://slimgur.com/images/2015/07/28/8ef32ac89ea0108e7401bcdcb236e970.png)
 
 #### Vim ####
 
-![ScreenshotC](screenshots/vim.png)
+![ScreenshotC](https://slimgur.com/images/2015/07/28/921e78cfbfe4f8503e5a565e9dc03d06.png)
 
 #### Vim-Diff ####
 
-![ScreenshotC](screenshots/vimdiff.png)
+![ScreenshotC](https://slimgur.com/images/2015/07/28/95a2d2b86f1ffb826d44f6a60bb444d9.png)
 
 ### Notes ###
 
 * Still young and subject to possible changes.
 * Optimized for the kind of files I work with (might not transfer to other
 filetypes well).
-* Dedicated for terminals supporting 256 colors.
+* Dedicated to terminals supporting 256 colors.
 
