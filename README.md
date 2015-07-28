@@ -1,6 +1,6 @@
 # moonshine-vim #
 
-Moonshine is a terminal-only colorscheme for vim.
+Moonshine is a dark terminal-only colorscheme for vim.
 
 ### Inspirations ###
 
@@ -34,10 +34,10 @@ Some screenshots:
 
 ![ScreenshotC](https://slimgur.com/images/2015/07/28/95a2d2b86f1ffb826d44f6a60bb444d9.png)
 
-### Notes ###
+### Shortcomings ###
 
 * Still young and subject to possible changes.
 * Optimized for the kind of files I work with (might not transfer to other
 filetypes well).
-* Dedicated to terminals supporting 256 colors.
+* Only usable on supporting 256 colors (no GUI version for now)
 
