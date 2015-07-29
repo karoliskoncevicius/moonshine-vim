@@ -85,7 +85,7 @@ if &t_Co >= 256
   hi TabLineSel       ctermbg=136  ctermfg=241  cterm=NONE
   hi TabLineFill      ctermbg=137  ctermfg=241  cterm=NONE
 
-  hi Error            ctermbg=196  ctermfg=235  cterm=NONE
+  hi Error            ctermbg=NONE ctermfg=196  cterm=REVERSE
   hi Ignore           ctermbg=NONE ctermfg=NONE cterm=NONE
   hi Todo             ctermbg=NONE ctermfg=NONE cterm=REVERSE
 
