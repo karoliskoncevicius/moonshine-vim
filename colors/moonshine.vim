@@ -55,9 +55,9 @@ if &t_Co >= 256
   hi IncSearch        ctermbg=222  ctermfg=235  cterm=NONE
   hi Search           ctermbg=214  ctermfg=235  cterm=NONE
 
-  hi StatusLine       ctermbg=241  ctermfg=255  cterm=BOLD
-  hi StatusLineNC     ctermbg=241  ctermfg=233  cterm=NONE
-  hi VertSplit        ctermbg=241  ctermfg=233  cterm=NONE
+  hi StatusLine       ctermbg=236  ctermfg=255  cterm=BOLD
+  hi StatusLineNC     ctermbg=236  ctermfg=233  cterm=NONE
+  hi VertSplit        ctermbg=236  ctermfg=233  cterm=NONE
   hi ModeMsg          ctermbg=NONE ctermfg=111  cterm=NONE
   hi WildMenu         ctermbg=241  ctermfg=111  cterm=UNDERLINE
 
