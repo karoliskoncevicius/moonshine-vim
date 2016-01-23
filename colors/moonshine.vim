@@ -39,7 +39,7 @@ if &t_Co >= 256
 
   hi LineNr           ctermbg=NONE ctermfg=241  cterm=NONE
   hi CursorLineNr     ctermbg=NONE ctermfg=214  cterm=NONE
-  hi MatchParen       ctermbg=NONE ctermfg=109  cterm=NONE
+  hi MatchParen       ctermbg=NONE ctermfg=111  cterm=NONE
   hi Conceal          ctermbg=NONE ctermfg=245  cterm=NONE
   hi SpecialKey       ctermbg=NONE ctermfg=240  cterm=NONE
   hi ColorColumn      ctermbg=236  ctermfg=NONE cterm=NONE
