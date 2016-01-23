@@ -32,7 +32,7 @@ if &t_Co >= 256
   hi Function         ctermbg=NONE ctermfg=137  cterm=NONE
   hi PreProc          ctermbg=NONE ctermfg=95   cterm=NONE
 
-  hi Constant         ctermbg=NONE ctermfg=130  cterm=NONE
+  hi Constant         ctermbg=NONE ctermfg=166  cterm=NONE
   hi Boolean          ctermbg=NONE ctermfg=124  cterm=NONE
   hi String           ctermbg=NONE ctermfg=100  cterm=NONE
   hi Title            ctermbg=NONE ctermfg=109  cterm=NONE
