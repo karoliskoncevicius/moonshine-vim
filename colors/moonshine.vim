@@ -50,7 +50,7 @@ if &t_Co >= 256
   hi Directory        ctermbg=NONE ctermfg=143  cterm=NONE
   hi Underlined       ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
 
-  hi Visual           ctermbg=233  ctermfg=111  cterm=REVERSE
+  hi Visual           ctermbg=233  ctermfg=109  cterm=REVERSE
   hi VisualNOS        ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
   hi IncSearch        ctermbg=106  ctermfg=235  cterm=NONE
   hi Search           ctermbg=106  ctermfg=235  cterm=NONE
