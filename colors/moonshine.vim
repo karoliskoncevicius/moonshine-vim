@@ -21,39 +21,39 @@ let g:colors_name = 'moonshine'
 
 if &t_Co >= 256
 
-  hi Normal           ctermbg=233  ctermfg=222  cterm=NONE
+  hi Normal           ctermbg=233  ctermfg=179  cterm=NONE
   set background=dark
 
   hi Special          ctermbg=NONE ctermfg=65   cterm=NONE
-  hi Comment          ctermbg=NONE ctermfg=241  cterm=NONE
-  hi Statement        ctermbg=NONE ctermfg=214  cterm=NONE
+  hi Comment          ctermbg=NONE ctermfg=238  cterm=NONE
+  hi Statement        ctermbg=NONE ctermfg=172   cterm=NONE
   hi Identifier       ctermbg=NONE ctermfg=137  cterm=NONE
-  hi Type             ctermbg=NONE ctermfg=137  cterm=NONE
-  hi Function         ctermbg=NONE ctermfg=136  cterm=NONE
-  hi PreProc          ctermbg=NONE ctermfg=136  cterm=NONE
+  hi Type             ctermbg=NONE ctermfg=94   cterm=NONE
+  hi Function         ctermbg=NONE ctermfg=137  cterm=NONE
+  hi PreProc          ctermbg=NONE ctermfg=95   cterm=NONE
 
-  hi Constant         ctermbg=NONE ctermfg=208  cterm=NONE
-  hi Boolean          ctermbg=NONE ctermfg=196  cterm=NONE
-  hi String           ctermbg=NONE ctermfg=64   cterm=NONE
-  hi Title            ctermbg=NONE ctermfg=136  cterm=BOLD
+  hi Constant         ctermbg=NONE ctermfg=130  cterm=NONE
+  hi Boolean          ctermbg=NONE ctermfg=124  cterm=NONE
+  hi String           ctermbg=NONE ctermfg=100  cterm=NONE
+  hi Title            ctermbg=NONE ctermfg=109  cterm=NONE
 
   hi LineNr           ctermbg=NONE ctermfg=241  cterm=NONE
   hi CursorLineNr     ctermbg=NONE ctermfg=214  cterm=NONE
-  hi MatchParen       ctermbg=NONE ctermfg=82   cterm=NONE
-  hi Conceal          ctermbg=NONE ctermfg=214  cterm=NONE
+  hi MatchParen       ctermbg=NONE ctermfg=109  cterm=NONE
+  hi Conceal          ctermbg=NONE ctermfg=245  cterm=NONE
   hi SpecialKey       ctermbg=NONE ctermfg=240  cterm=NONE
   hi ColorColumn      ctermbg=236  ctermfg=NONE cterm=NONE
   hi SignColumn       ctermbg=233  ctermfg=242  cterm=NONE
-  hi Folded           ctermbg=NONE ctermfg=88   cterm=NONE
-  hi FoldColumn       ctermbg=NONE ctermfg=88   cterm=NONE
+  hi Folded           ctermbg=NONE ctermfg=245  cterm=NONE
+  hi FoldColumn       ctermbg=NONE ctermfg=245  cterm=NONE
 
-  hi Directory        ctermbg=NONE ctermfg=64   cterm=NONE
+  hi Directory        ctermbg=NONE ctermfg=143  cterm=NONE
   hi Underlined       ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
 
-  hi Visual           ctermbg=NONE ctermfg=111  cterm=UNDERLINE
+  hi Visual           ctermbg=233  ctermfg=109  cterm=REVERSE
   hi VisualNOS        ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
-  hi IncSearch        ctermbg=222  ctermfg=235  cterm=NONE
-  hi Search           ctermbg=214  ctermfg=235  cterm=NONE
+  hi IncSearch        ctermbg=106  ctermfg=235  cterm=NONE
+  hi Search           ctermbg=106  ctermfg=235  cterm=NONE
 
   hi StatusLine       ctermbg=236  ctermfg=255  cterm=BOLD
   hi StatusLineNC     ctermbg=236  ctermfg=233  cterm=NONE
@@ -76,8 +76,8 @@ if &t_Co >= 256
   hi SpellLocal       ctermbg=NONE ctermfg=NONE cterm=UNDERCURL
   hi SpellRare        ctermbg=NONE ctermfg=NONE cterm=UNDERCURL
 
-  hi ErrorMsg         ctermbg=196  ctermfg=235  cterm=NONE
-  hi WarningMsg       ctermbg=NONE ctermfg=196  cterm=NONE
+  hi ErrorMsg         ctermbg=124  ctermfg=235  cterm=NONE
+  hi WarningMsg       ctermbg=NONE ctermfg=124  cterm=NONE
   hi MoreMsg          ctermbg=NONE ctermfg=111  cterm=NONE
   hi Question         ctermbg=NONE ctermfg=111  cterm=NONE
 
@@ -85,7 +85,7 @@ if &t_Co >= 256
   hi TabLineSel       ctermbg=136  ctermfg=241  cterm=NONE
   hi TabLineFill      ctermbg=137  ctermfg=241  cterm=NONE
 
-  hi Error            ctermbg=NONE ctermfg=196  cterm=REVERSE
+  hi Error            ctermbg=NONE ctermfg=124  cterm=REVERSE
   hi Ignore           ctermbg=NONE ctermfg=NONE cterm=NONE
   hi Todo             ctermbg=NONE ctermfg=NONE cterm=REVERSE
 
