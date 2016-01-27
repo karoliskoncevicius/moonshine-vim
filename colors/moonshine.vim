@@ -59,7 +59,7 @@ if &t_Co >= 256
   hi StatusLineNC     ctermbg=236  ctermfg=233  cterm=NONE
   hi VertSplit        ctermbg=236  ctermfg=233  cterm=NONE
   hi ModeMsg          ctermbg=NONE ctermfg=111  cterm=NONE
-  hi WildMenu         ctermbg=241  ctermfg=111  cterm=UNDERLINE
+  hi WildMenu         ctermbg=236  ctermfg=111  cterm=UNDERLINE
 
   hi DiffAdd          ctermbg=64   ctermfg=235  cterm=NONE
   hi DiffDelete       ctermbg=160  ctermfg=235  cterm=NONE
@@ -81,9 +81,9 @@ if &t_Co >= 256
   hi MoreMsg          ctermbg=NONE ctermfg=111  cterm=NONE
   hi Question         ctermbg=NONE ctermfg=111  cterm=NONE
 
-  hi TabLine          ctermbg=137  ctermfg=241  cterm=NONE
-  hi TabLineSel       ctermbg=136  ctermfg=241  cterm=NONE
-  hi TabLineFill      ctermbg=137  ctermfg=241  cterm=NONE
+  hi TabLine          ctermbg=236  ctermfg=241  cterm=NONE
+  hi TabLineSel       ctermbg=236  ctermfg=111  cterm=NONE
+  hi TabLineFill      ctermbg=236  ctermfg=230  cterm=NONE
 
   hi Error            ctermbg=NONE ctermfg=124  cterm=REVERSE
   hi Ignore           ctermbg=NONE ctermfg=NONE cterm=NONE
