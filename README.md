@@ -2,6 +2,11 @@
 
 Moonshine is a dark terminal-only colorscheme for vim.
 
+It has two versions with different color contrasts (two separate files for now):
+
+* moonshine.vim
+* moonshine_lowcontrast.vim
+
 ### Inspirations ###
 
 Main inspirations:
@@ -12,19 +17,10 @@ Main inspirations:
 
 ### Screenshots ###
 
-Some screenshots:
+No screenshots. To see how the theme looks please check it out at **vivify**:
 
-#### Vim ####
-
-![ScreenshotVIM](img/vim.png)
-
-#### R ####
-
-![ScreenshotR](img/R.png)
-
-#### Bash ####
-
-![ScreenshotBASH](img/bash.png)
+* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
+* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
 
 ### Shortcomings ###
 
