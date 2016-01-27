@@ -87,7 +87,7 @@ if &t_Co >= 256
 
   hi Error            ctermbg=NONE ctermfg=124  cterm=REVERSE
   hi Ignore           ctermbg=NONE ctermfg=NONE cterm=NONE
-  hi Todo             ctermbg=231  ctermfg=232  cterm=NONE
+  hi Todo             ctermbg=230  ctermfg=232  cterm=NONE
 
   hi NonText          ctermbg=NONE ctermfg=240  cterm=NONE
 
