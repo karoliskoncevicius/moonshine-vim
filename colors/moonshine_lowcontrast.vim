@@ -15,14 +15,13 @@ if exists('syntax_on')
   syntax reset
 endif
 
-set background=light
 
 let g:colors_name = 'moonshine'
 
 if &t_Co >= 256
 
+  set background=light
   hi Normal           ctermbg=235  ctermfg=222  cterm=NONE
-  " set background=dark
 
   hi Statement        ctermbg=NONE ctermfg=172  cterm=NONE
   hi PreProc          ctermbg=NONE ctermfg=95   cterm=NONE
