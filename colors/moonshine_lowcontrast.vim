@@ -44,8 +44,8 @@ if &t_Co >= 256
   hi SpecialKey       ctermbg=NONE ctermfg=240  cterm=NONE
   hi ColorColumn      ctermbg=236  ctermfg=NONE cterm=NONE
   hi SignColumn       ctermbg=233  ctermfg=242  cterm=NONE
-  hi Folded           ctermbg=NONE ctermfg=67   cterm=NONE
-  hi FoldColumn       ctermbg=NONE ctermfg=67   cterm=NONE
+  hi Folded           ctermbg=NONE ctermfg=124  cterm=NONE
+  hi FoldColumn       ctermbg=NONE ctermfg=124  cterm=NONE
 
   hi Directory        ctermbg=NONE ctermfg=143  cterm=NONE
   hi Underlined       ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
