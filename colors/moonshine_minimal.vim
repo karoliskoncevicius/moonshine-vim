@@ -25,7 +25,7 @@ if &t_Co >= 256
 
   hi Comment          ctermbg=NONE ctermfg=239  cterm=NONE
   hi Special          ctermbg=NONE ctermfg=94   cterm=NONE
-  hi Statement        ctermbg=NONE ctermfg=137  cterm=NONE
+  hi Statement        ctermbg=NONE ctermfg=94   cterm=NONE
   hi Type             ctermbg=NONE ctermfg=137  cterm=NONE
   hi Function         ctermbg=NONE ctermfg=137  cterm=NONE
   hi PreProc          ctermbg=NONE ctermfg=137  cterm=NONE
