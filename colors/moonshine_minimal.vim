@@ -60,9 +60,9 @@ if &t_Co >= 256
   hi ModeMsg          ctermbg=NONE ctermfg=111  cterm=NONE
   hi WildMenu         ctermbg=236  ctermfg=111  cterm=UNDERLINE
 
-  hi DiffAdd          ctermbg=64   ctermfg=235  cterm=NONE
-  hi DiffDelete       ctermbg=160  ctermfg=235  cterm=NONE
-  hi DiffChange       ctermbg=60   ctermfg=235  cterm=NONE
+  hi DiffAdd          ctermbg=100  ctermfg=235  cterm=NONE
+  hi DiffDelete       ctermbg=124  ctermfg=235  cterm=NONE
+  hi DiffChange       ctermbg=179  ctermfg=235  cterm=NONE
   hi DiffText         ctermbg=214  ctermfg=235  cterm=NONE
 
   hi Pmenu            ctermbg=238  ctermfg=222  cterm=NONE
