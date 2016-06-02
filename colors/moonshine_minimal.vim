@@ -54,9 +54,9 @@ if &t_Co >= 256
   hi IncSearch        ctermbg=106  ctermfg=235  cterm=NONE
   hi Search           ctermbg=106  ctermfg=235  cterm=NONE
 
-  hi StatusLine       ctermbg=236  ctermfg=255  cterm=BOLD
+  hi StatusLine       ctermbg=236  ctermfg=222  cterm=BOLD
   hi StatusLineNC     ctermbg=236  ctermfg=233  cterm=NONE
-  hi VertSplit        ctermbg=236  ctermfg=233  cterm=NONE
+  hi VertSplit        ctermbg=236  ctermfg=236  cterm=NONE
   hi ModeMsg          ctermbg=NONE ctermfg=111  cterm=NONE
   hi WildMenu         ctermbg=236  ctermfg=111  cterm=UNDERLINE
 
@@ -66,9 +66,9 @@ if &t_Co >= 256
   hi DiffText         ctermbg=214  ctermfg=235  cterm=NONE
 
   hi Pmenu            ctermbg=238  ctermfg=222  cterm=NONE
-  hi PmenuSel         ctermbg=137  ctermfg=238  cterm=NONE
+  hi PmenuSel         ctermbg=111  ctermfg=238  cterm=NONE
   hi PmenuSbar        ctermbg=137  ctermfg=NONE cterm=NONE
-  hi PmenuThumb       ctermbg=136  ctermfg=NONE cterm=NONE
+  hi PmenuThumb       ctermbg=94   ctermfg=NONE cterm=NONE
 
   hi SpellBad         ctermbg=NONE ctermfg=NONE cterm=UNDERCURL
   hi SpellCap         ctermbg=NONE ctermfg=NONE cterm=UNDERCURL
