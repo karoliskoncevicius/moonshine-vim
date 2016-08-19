@@ -21,7 +21,7 @@ let g:colors_name = 'moonshine'
 if &t_Co >= 256
 
   set background=light
-  hi Normal           ctermbg=234  ctermfg=222  cterm=NONE
+  hi Normal           ctermbg=233  ctermfg=222  cterm=NONE
 
   hi Comment          ctermbg=NONE ctermfg=239  cterm=NONE
   hi Special          ctermbg=NONE ctermfg=94   cterm=NONE
