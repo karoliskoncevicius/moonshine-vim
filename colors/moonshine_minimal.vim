@@ -25,7 +25,7 @@ if &t_Co >= 256
 
   hi Comment          ctermbg=NONE ctermfg=242  cterm=NONE
   hi Special          ctermbg=NONE ctermfg=94   cterm=NONE
-  hi Statement        ctermbg=NONE ctermfg=137   cterm=NONE
+  hi Statement        ctermbg=NONE ctermfg=137  cterm=NONE
   hi Type             ctermbg=NONE ctermfg=137  cterm=NONE
   hi Function         ctermbg=NONE ctermfg=137  cterm=NONE
   hi PreProc          ctermbg=NONE ctermfg=137  cterm=NONE
@@ -43,8 +43,8 @@ if &t_Co >= 256
   hi SpecialKey       ctermbg=NONE ctermfg=240  cterm=NONE
   hi ColorColumn      ctermbg=236  ctermfg=NONE cterm=NONE
   hi SignColumn       ctermbg=233  ctermfg=242  cterm=NONE
-  hi Folded           ctermbg=NONE ctermfg=88   cterm=NONE
-  hi FoldColumn       ctermbg=NONE ctermfg=88   cterm=NONE
+  hi Folded           ctermbg=NONE ctermfg=137  cterm=REVERSE
+  hi FoldColumn       ctermbg=NONE ctermfg=137  cterm=NONE
 
   hi Directory        ctermbg=NONE ctermfg=143  cterm=NONE
   hi Underlined       ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
@@ -54,7 +54,7 @@ if &t_Co >= 256
   hi IncSearch        ctermbg=106  ctermfg=235  cterm=NONE
   hi Search           ctermbg=106  ctermfg=235  cterm=NONE
 
-  hi StatusLine       ctermbg=236  ctermfg=222  cterm=BOLD
+  hi StatusLine       ctermbg=236  ctermfg=179  cterm=BOLD
   hi StatusLineNC     ctermbg=236  ctermfg=233  cterm=NONE
   hi VertSplit        ctermbg=236  ctermfg=236  cterm=NONE
   hi ModeMsg          ctermbg=NONE ctermfg=111  cterm=NONE
