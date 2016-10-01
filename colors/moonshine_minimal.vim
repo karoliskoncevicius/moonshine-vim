@@ -51,8 +51,8 @@ if &t_Co >= 256
 
   hi Visual           ctermbg=233  ctermfg=110  cterm=REVERSE
   hi VisualNOS        ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
-  hi IncSearch        ctermbg=106  ctermfg=235  cterm=NONE
-  hi Search           ctermbg=106  ctermfg=235  cterm=NONE
+  hi IncSearch        ctermbg=214  ctermfg=235  cterm=NONE
+  hi Search           ctermbg=220  ctermfg=235  cterm=NONE
 
   hi StatusLine       ctermbg=236  ctermfg=222  cterm=BOLD
   hi StatusLineNC     ctermbg=236  ctermfg=233  cterm=NONE
