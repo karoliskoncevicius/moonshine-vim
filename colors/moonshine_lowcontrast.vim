@@ -49,10 +49,10 @@ if &t_Co >= 256
   hi Directory        ctermbg=NONE ctermfg=143  cterm=NONE
   hi Underlined       ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
 
-  hi Visual           ctermbg=233  ctermfg=109  cterm=REVERSE
+  hi Visual           ctermbg=233  ctermfg=110  cterm=REVERSE
   hi VisualNOS        ctermbg=NONE ctermfg=NONE cterm=UNDERLINE
-  hi IncSearch        ctermbg=142  ctermfg=235  cterm=NONE
-  hi Search           ctermbg=142  ctermfg=235  cterm=NONE
+  hi IncSearch        ctermbg=214  ctermfg=235  cterm=NONE
+  hi Search           ctermbg=220  ctermfg=235  cterm=NONE
 
   hi StatusLine       ctermbg=236  ctermfg=230  cterm=BOLD
   hi StatusLineNC     ctermbg=236  ctermfg=241  cterm=NONE
@@ -62,8 +62,8 @@ if &t_Co >= 256
 
   hi DiffAdd          ctermbg=100  ctermfg=235  cterm=NONE
   hi DiffDelete       ctermbg=124  ctermfg=235  cterm=NONE
-  hi DiffChange       ctermbg=60   ctermfg=235  cterm=NONE
-  hi DiffText         ctermbg=172  ctermfg=235  cterm=NONE
+  hi DiffChange       ctermbg=179  ctermfg=235  cterm=NONE
+  hi DiffText         ctermbg=214  ctermfg=235  cterm=NONE
 
   hi Pmenu            ctermbg=238  ctermfg=222  cterm=NONE
   hi PmenuSel         ctermbg=137  ctermfg=238  cterm=NONE
