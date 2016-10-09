@@ -80,9 +80,9 @@ if &t_Co >= 256
   hi MoreMsg          ctermbg=NONE ctermfg=111  cterm=NONE
   hi Question         ctermbg=NONE ctermfg=111  cterm=NONE
 
-  hi TabLine          ctermbg=236  ctermfg=245  cterm=NONE
+  hi TabLine          ctermbg=240  ctermfg=109  cterm=NONE
   hi TabLineSel       ctermbg=236  ctermfg=109  cterm=REVERSE
-  hi TabLineFill      ctermbg=236  ctermfg=230  cterm=NONE
+  hi TabLineFill      ctermbg=236  ctermfg=240  cterm=NONE
 
   hi Error            ctermbg=NONE ctermfg=124  cterm=REVERSE
   hi Ignore           ctermbg=NONE ctermfg=NONE cterm=NONE
