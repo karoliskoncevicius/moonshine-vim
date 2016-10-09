@@ -67,8 +67,8 @@ if &t_Co >= 256
 
   hi Pmenu            ctermbg=238  ctermfg=222  cterm=NONE
   hi PmenuSel         ctermbg=137  ctermfg=238  cterm=NONE
-  hi PmenuSbar        ctermbg=137  ctermfg=NONE cterm=NONE
-  hi PmenuThumb       ctermbg=136  ctermfg=NONE cterm=NONE
+  hi PmenuSbar        ctermbg=238  ctermfg=NONE cterm=NONE
+  hi PmenuThumb       ctermbg=137  ctermfg=NONE cterm=NONE
 
   hi SpellBad         ctermbg=NONE ctermfg=NONE cterm=UNDERCURL
   hi SpellCap         ctermbg=NONE ctermfg=NONE cterm=UNDERCURL

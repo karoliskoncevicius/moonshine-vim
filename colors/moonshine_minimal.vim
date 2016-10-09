@@ -65,7 +65,7 @@ if &t_Co >= 256
   hi DiffChange       ctermbg=179  ctermfg=235  cterm=NONE
   hi DiffText         ctermbg=214  ctermfg=235  cterm=NONE
 
-  hi Pmenu            ctermbg=238  ctermfg=109  cterm=NONE
+  hi Pmenu            ctermbg=238  ctermfg=179  cterm=NONE
   hi PmenuSel         ctermbg=235  ctermfg=109  cterm=REVERSE
   hi PmenuSbar        ctermbg=238  ctermfg=NONE cterm=NONE
   hi PmenuThumb       ctermbg=109  ctermfg=NONE cterm=NONE
