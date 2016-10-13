@@ -8,6 +8,18 @@ It has three versions with different color contrasts (3 separate files for now):
 * **moonshine_lowcontrast.vim**
 * **moonshine_minimal.vim**
 
+### Screenshots ###
+
+**moonshine      -      moonshine_lowcontrast      -      moonshine_minimal**
+
+![C](https://i.sli.mg/kmD1ry.png)
+
+In addition you can inspect this theme at **vivify**:
+
+* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
+* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
+* [Minimal version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
+
 ### Installation ###
 
 Install manually or with your favorite plug-in manager and then load the theme.
@@ -24,18 +36,6 @@ Instead of the default version you can try a different one:
 or:
 
     colorscheme moonshine_minimal
-
-### Screenshots ###
-
-Side by side: **moonshine - moonshine_lowcontrast - moonshine_minimal**
-
-![C](https://i.sli.mg/kmD1ry.png)
-
-In addition you can inspect this theme at **vivify**:
-
-* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
-* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
-* [Minimal version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
 
 ### Inspirations ###
 
