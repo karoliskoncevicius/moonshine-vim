@@ -16,6 +16,8 @@ It has three versions with different color contrasts:
 
 ![Vim](https://i.sli.mg/6Q5egx.png)
 
+![Haskell](https://i.sli.mg/LTsXJx.png)
+
 In addition you can inspect this theme at **vivify**:
 
 * [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
