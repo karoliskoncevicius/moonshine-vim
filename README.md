@@ -1,8 +1,8 @@
 # Moonshine-vim #
 
-Moonshine is a dark 256-color terminal-only colorscheme for vim.
+Moonshine is a dark 256-color colorscheme for vim.
 
-It has three versions with different color contrasts (3 separate files for now):
+It has three versions with different color contrasts:
 
 * **moonshine.vim**
 * **moonshine_lowcontrast.vim**
