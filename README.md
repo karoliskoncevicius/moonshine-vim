@@ -1,12 +1,41 @@
-# moonshine-vim #
+# Moonshine-vim #
 
-Moonshine is a dark terminal-only colorscheme for vim.
+Moonshine is a dark 256-color terminal-only colorscheme for vim.
 
 It has three versions with different color contrasts (3 separate files for now):
 
 * **moonshine.vim**
 * **moonshine_lowcontrast.vim**
 * **moonshine_minimal.vim**
+
+### Installation ###
+
+Install manually or with your favorite plug-in manager and then load the theme.
+
+With `vim-plug`:
+
+    Plug 'KKPMW/moonshine-vim'
+    colorscheme moonshine
+
+Instead of the default version you can try a different one:
+
+    colorscheme moonshine_lowcontrast
+
+or:
+
+    colorscheme moonshine_minimal
+
+### Screenshots ###
+
+Side by side: **moonshine - moonshine_lowcontrast - moonshine_minimal**
+
+![C](https://i.sli.mg/kmD1ry.png)
+
+In addition you can inspect this theme at **vivify**:
+
+* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
+* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
+* [Minimal version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
 
 ### Inspirations ###
 
@@ -16,18 +45,10 @@ Main inspirations:
 2. [Twilight](https://github.com/vim-scripts/twilight256.vim)
 3. [Gruvbox](https://github.com/morhetz/gruvbox)
 
-### Screenshots ###
+### You May Also Like ###
 
-No screenshots. To see how the theme looks please check it out at **vivify**:
+Similar themes are available for a few other terminal programs:
 
-* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
-* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
-* [Minimal version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
-
-### Shortcomings ###
-
-* Still young and subject to possible changes.
-* Optimized for the kind of files I work with (might not transfer to other
-filetypes well).
-* Only usable on supporting 256 colors (no GUI version for now)
+1. [Moonshine for GNU ls dircolors](https://github.com/KKPMW/dircolors-moonshine)
+2. [Moonshine for mutt email client](https://github.com/KKPMW/moonshine-mutt)
 
