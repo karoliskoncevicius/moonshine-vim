@@ -10,7 +10,7 @@ It has three versions with different color contrasts (3 separate files for now):
 
 ### Screenshots ###
 
-**----- moonshine -------------------- moonshine_lowcontrast --------------------- moonshine_minimal -----**
+**-------------- moonshine ---------------- moonshine_lowcontrast ---------------- moonshine_minimal -----**
 
 ![C](https://i.sli.mg/kmD1ry.png)
 
