@@ -16,7 +16,7 @@ if exists('syntax_on')
 endif
 
 
-let g:colors_name = 'moonshine'
+let g:colors_name = 'moonshine_minimal'
 
 if &t_Co >= 256
 
