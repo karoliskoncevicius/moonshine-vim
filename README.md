@@ -22,9 +22,9 @@ It has three versions with different color contrasts:
 
 In addition you can inspect this theme at **vivify**:
 
-* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
-* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
-* [Minimal version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
+* [High contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2Fkaroliskoncevicius%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine.vim)
+* [Low contrast version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2Fkaroliskoncevicius%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_lowcontrast.vim)
+* [Minimal version](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2Fkaroliskoncevicius%2Fmoonshine-vim%2Fmaster%2Fcolors%2Fmoonshine_minimal.vim)
 
 ### Installation ###
 
@@ -32,7 +32,7 @@ Install manually or with your favorite plug-in manager and then load the theme.
 
 With `vim-plug`:
 
-    Plug 'KKPMW/moonshine-vim'
+    Plug 'karoliskoncevicius/moonshine-vim'
     colorscheme moonshine
 
 Instead of the default version you can try a different one:
@@ -55,6 +55,5 @@ Main inspirations:
 
 Similar themes are available for a few other terminal programs:
 
-1. [Moonshine for GNU ls dircolors](https://github.com/KKPMW/dircolors-moonshine)
-2. [Moonshine for mutt email client](https://github.com/KKPMW/moonshine-mutt)
+1. [Moonshine for GNU ls dircolors](https://github.com/karoliskoncevicius/dircolors-moonshine)
 
